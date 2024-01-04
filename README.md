@@ -1,0 +1,1 @@
+# js_slickslider2_plugin
